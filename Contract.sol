@@ -1,6 +1,6 @@
 /*
 
-EverRise is built upon the fundamentals of Buyback and increasing the investor's value
+BitBan (EverRise Fork) is built upon the fundamentals of Buyback and increasing the investor's value
     
 Main features are
     
